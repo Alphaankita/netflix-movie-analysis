@@ -1,6 +1,5 @@
 🎬 Netflix Movie Analysis Project
-If GitHub is unable to render the notebook, [Click here to view the Project on NBViewer](https://nbviewer.org/github/Alphaankita/netflix-movie-analysis/blob/main/Netflix_Movie_Analysis.ipynb).
-
+If GitHub is unable to render the notebook, [Click here to view the Project on Jupyter Viewer](https://jupyter.org/viewer?url=https://github.com/Alphaankita/netflix-movie-analysis/blob/main/Netflix_Movie_Analysis.ipynb).
 📌 Project Overview
 
 This project focuses on analyzing a Netflix movie dataset to explore movie trends, audience ratings, popularity patterns, and genre-based insights. The project involves data cleaning, exploratory data analysis (EDA), and data visualization using Python libraries to understand the characteristics of movies available on Netflix.
