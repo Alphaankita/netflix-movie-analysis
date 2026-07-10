@@ -1,4 +1,5 @@
 🎬 Netflix Movie Analysis Project
+If GitHub is unable to render the notebook, [Click here to view the Project on NBViewer](https://nbviewer.org/github/Alphaankita/netflix-movie-analysis/blob/main/Netflix_Movie_Analysis.ipynb).
 
 📌 Project Overview
 
